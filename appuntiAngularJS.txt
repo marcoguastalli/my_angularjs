@@ -2,3 +2,9 @@ https://angularjs.org/
 
 # html.it
 http://www.html.it/pag/52589/hello-angular/
+
+# w3schools
+http://www.w3schools.com/angular/angular_intro.asp
+
+# hello
+http://jsfiddle.net/viralpatel/vFcZ7/
