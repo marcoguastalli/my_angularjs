@@ -8,3 +8,22 @@ http://www.w3schools.com/angular/angular_intro.asp
 
 # hello
 http://jsfiddle.net/viralpatel/vFcZ7/
+
+# hello
+npm install -g http-server
+http-server
+OR
+python -m SimpleHTTPServer 8080
+
+#run
+cd ~/Documents/my_angularjs/
+http-server
+http://192.168.29.221:8080/hello/
+http://127.0.0.1:8080/hello/
+
+# sarebbe:
+https://www.npmjs.com/package/http-server
+
+# videos
+https://www.youtube.com/watch?v=yPTS0yBqOm8
+https://www.youtube.com/watch?v=UzvyuYEAU8o
